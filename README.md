@@ -5,7 +5,7 @@ A banner for Discourse
 <img src="https://i.imgur.com/fcdsDLy.png">
 
 ### Mobile view - Portrait
-<img src="https://i.imgur.com/GQ4wAlZ.gif">
+<img src="https://i.imgur.com/IMvhbqA.gif">
 
 ### Mobile view - Landscape
-<img src="https://i.imgur.com/JlVitwM.gif">
+<img src="https://i.imgur.com/HAnWllr.gif">
