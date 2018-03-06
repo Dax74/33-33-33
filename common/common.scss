@@ -47,7 +47,6 @@ $background-color: #FBDE9C;
     }
 }
 
-
 //COLUMNS MANAGEMENT
 
 .col3 {
@@ -76,8 +75,6 @@ $background-color: #FBDE9C;
     padding-left: 15px;
     padding-right: 15px;
 }
-
-
 
 .container::after, .row::after {
     clear: both;
@@ -153,6 +150,7 @@ $background-color: #FBDE9C;
         background: $main-color;
     }
 }
+
 //CLOSE BUTTON ON THE TOP RIGHT
 .banner-box .close {
     border: none;
