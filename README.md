@@ -7,4 +7,4 @@ A theme component for Discourse to create a three-column banner
 <img src="https://i.imgur.com/nbcVMrD.gif">
 
 ### Mobile view - Landscape
-<img src="https://i.imgur.com/ywei4gm.gifv">
+<img src="https://i.imgur.com/ywei4gm.gif">
