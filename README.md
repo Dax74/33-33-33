@@ -8,3 +8,5 @@ A theme component for Discourse to create a three-column banner
 
 ### Mobile view - Landscape
 <img src="https://i.imgur.com/ywei4gm.gif">
+
+Note: report problems or bugs directly on the topic: ...
